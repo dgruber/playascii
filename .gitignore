@@ -4,6 +4,10 @@
 *.so
 *.dylib
 
+.DS_Store
+*.cast
+
+
 # Test binary, build with `go test -c`
 *.test
 
